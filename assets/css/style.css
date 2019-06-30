@@ -1,0 +1,15 @@
+.bg {
+    background-image: url('../images//the-office-wallpaper-the-office-full-wallpaper-the-office-wallpaper-iphone-6.jpg');
+    height: 100%; 
+    width: 100%; 
+    background-position: center
+}
+.pics {
+    position: relative; 
+    height:30%; 
+    width: 20%
+}
+.head {
+    color: white; 
+    font-family:'Russo One', sans-serif;
+}
